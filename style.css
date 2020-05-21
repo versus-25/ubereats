@@ -245,6 +245,9 @@
     color: #FFFFFF;
     margin-bottom: 24px;
 }
+.footer-text:hover{
+    color: #FFFFFF;
+}
 .scroll-up-button{
     display: flex;
     position: fixed;
